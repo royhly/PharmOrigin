@@ -1,0 +1,7 @@
+{
+  "name": "PharmOrigin Explorer",
+  "description": "An interactive world map application to explore the historical and geographical origins of medicines using AI-powered insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
